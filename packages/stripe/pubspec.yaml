@@ -15,7 +15,7 @@ dependencies:
      git:
       url: https://github.com/HaniMohamed/flutter_stripe
       path: packages/stripe_android
-      ref: 607839a4da7896a71ce52d342cdc515f4c83c64
+      ref: 10379fb913f3ad8b69c6d482113a8873db68957a
   stripe_ios: ^2.2.0
   stripe_platform_interface: ^2.2.0
 dev_dependencies:
